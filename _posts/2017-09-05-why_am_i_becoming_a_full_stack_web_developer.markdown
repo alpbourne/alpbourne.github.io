@@ -5,7 +5,7 @@ date:   2017-09-05 15:37:22 -0400
 ---
 
 
-This past summer, my husband and I had to make our second out of state move within a two year span. Every move is full of new challenges and adjustments, specifically with careers. After this past move, I spent a lot of time looking for jobs that fit my skillset in legal support roles, but I was not getting anywhere with my job search.  The problem was that I could not promise anything more than a two year commitment at a company because my husband and I are still not sure where we will have to move in two more years. Instead of seeing this problem as a road block, I decided to turn it into an opportunity for a career change.
+This past summer, my husband and I had to make our second out-of-state move within a two-year span. Every move is full of new challenges and adjustments, specifically with careers. After this past move, I spent a lot of time looking for jobs that fit my skillset in legal support roles, but I was not getting anywhere with my job search.  The problem was that I could not promise anything more than a two year commitment at a company because my husband and I are still not sure where we will have to move in two more years. Instead of seeing this problem as a road block, I decided to turn it into an opportunity for a career change.
 
 After doing research, talking with peers, and starting to learn about code on my own, I decided my best option was to become a full stack web developer.  I understand that this is a huge challenge and undertaking, but I am ready for it. 
 
