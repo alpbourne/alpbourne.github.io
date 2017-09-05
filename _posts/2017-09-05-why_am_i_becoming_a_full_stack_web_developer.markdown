@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why am I becoming a Full Stack Web Developer?"
-date:   2017-09-05 19:37:21 +0000
+date:   2017-09-05 15:37:22 -0400
 ---
 
 
