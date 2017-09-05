@@ -1,0 +1,21 @@
+# Site settings
+title: My Journey to Becoming a Web Developer
+header-img: img/home-bg.png
+email: alpbourne@gmail.com
+copyright_name: alpbourne
+description: > # this means to ignore newlines until "baseurl:"
+  Paralegal to Full Stack Web Developer
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  alpbourne
+learn_profile: alpbourne
+email_username: alpbourne@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
