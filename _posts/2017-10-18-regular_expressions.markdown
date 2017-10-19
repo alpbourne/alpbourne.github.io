@@ -21,4 +21,4 @@ To eliminate the possibilty of matching "%ight" or "5ight" in the example above,
 Named Captures are a way to label subexpressions. In the above example, we are taking the string and splitting it into two parts, :first and :last, using parenthesis. This makes the string more useful to us. If we only needed someone's first name, we now have a way to access it without having to include the last name as well.
 
 **Source:**
-Black, David A. “Regular expressions and regexp-Based string operations.” *The Well-Grounded Rubyist*, 2nd ed., Manning Publications Co., 2014, pp. 330–359.
+Black, David A. “Regular expressions and regexp-based string operations.” *The Well-Grounded Rubyist*, 2nd ed., Manning Publications Co., 2014, pp. 330–359.
