@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Regular Expressions"
-date:       2017-10-18 23:02:32 +0000
+date:       2017-10-18 19:02:33 -0400
 permalink:  regular_expressions
 ---
 
@@ -19,3 +19,6 @@ To eliminate the possibilty of matching "%ight" or "5ight" in the example above,
 ![](https://imgur.com/OpTFuEs.jpg)
 
 Named Captures are a way to label subexpressions. In the above example, we are taking the string and splitting it into two parts, :first and :last, using parenthesis. This makes the string more useful to us. If we only needed someone's first name, we now have a way to access it without having to include the last name as well.
+
+**Source:**
+Black, David A. “Regular expressions and regexp-Based string operations.” *The Well-Grounded Rubyist*, 2nd ed., Manning Publications Co., 2014, pp. 330–359.
