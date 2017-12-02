@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Travel Log Sinatra App"
-date:       2017-12-02 16:59:12 +0000
+date:       2017-12-02 11:59:13 -0500
 permalink:  travel_log_sinatra_app
 ---
 
