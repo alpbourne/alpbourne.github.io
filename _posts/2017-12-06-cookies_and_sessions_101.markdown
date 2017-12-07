@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Cookies and Sessions 101"
-date:       2017-12-07 00:19:28 +0000
+date:       2017-12-06 19:19:29 -0500
 permalink:  cookies_and_sessions_101
 ---
 
@@ -22,16 +22,16 @@ Sessions and cookies are essential for every Rack web application.  Mentioned ab
 
 
 
- *(1)Sinatra's session and cookies lesson in Flatiron's curriculum: https://learn.co/tracks/full-stack-web-dev-with-react/sinatra/sessions/sessions-and-cookies
+ (1)Sinatra's session and cookies lesson in Flatiron's curriculum: https://learn.co/tracks/full-stack-web-dev-with-react/sinatra/sessions/sessions-and-cookies
  
- *(2) Sinatra's mechanics of sessions lesson in Flatiron's curriculum: https://learn.co/tracks/full-stack-web-dev-with-react/sinatra/sessions/mechanics-of-sessions
+ (2) Sinatra's mechanics of sessions lesson in Flatiron's curriculum: https://learn.co/tracks/full-stack-web-dev-with-react/sinatra/sessions/mechanics-of-sessions
  
- *(3) Sinatra's sessions codealong lesson in Flatiron's curriculum: https://learn.co/tracks/full-stack-web-dev-with-react/sinatra/sessions/sinatra-sessions-codealong
+ (3) Sinatra's sessions codealong lesson in Flatiron's curriculum: https://learn.co/tracks/full-stack-web-dev-with-react/sinatra/sessions/sinatra-sessions-codealong
 
-*(4) http://webapps-for-beginners.rubymonstas.org/sessions/sinatra_sessions.html
+(4) http://webapps-for-beginners.rubymonstas.org/sessions/sinatra_sessions.html
 
-*(5) https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+(5) https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
 
-*(6) http://rubylearning.com/blog/2009/09/30/cookie-based-sessions-in-sinatra/
+(6) http://rubylearning.com/blog/2009/09/30/cookie-based-sessions-in-sinatra/
 
 
