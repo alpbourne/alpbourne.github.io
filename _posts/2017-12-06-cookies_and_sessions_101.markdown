@@ -22,11 +22,11 @@ Sessions and cookies are essential for every Rack web application.  Mentioned ab
 
 
 
- (1)Sinatra's session and cookies lesson in Flatiron's curriculum: https://learn.co/tracks/full-stack-web-dev-with-react/sinatra/sessions/sessions-and-cookies
+ (1)Sinatra's session and cookies lesson in Flatiron's curriculum: https://github.com/learn-co-students/sinatra-cookies-readme-v-000
  
- (2) Sinatra's mechanics of sessions lesson in Flatiron's curriculum: https://learn.co/tracks/full-stack-web-dev-with-react/sinatra/sessions/mechanics-of-sessions
+ (2) Sinatra's mechanics of sessions lesson in Flatiron's curriculum: https://github.com/learn-co-students/sinatra-mechanics-of-sessions-readme-v-000
  
- (3) Sinatra's sessions codealong lesson in Flatiron's curriculum: https://learn.co/tracks/full-stack-web-dev-with-react/sinatra/sessions/sinatra-sessions-codealong
+ (3) Sinatra's sessions codealong lesson in Flatiron's curriculum: https://github.com/alpbourne/sinatra-sessions-v-000
 
 (4) http://webapps-for-beginners.rubymonstas.org/sessions/sinatra_sessions.html
 
