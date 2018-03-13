@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Movie Bucket List with  jQuery Front End"
-date:       2018-03-13 01:34:40 +0000
+date:       2018-03-12 21:34:40 -0400
 permalink:  movie_bucket_list_with_jquery_front_end
 ---
 
 
-![](https://imgur.com/FWbbkY2)
+![](https://imgur.com/FWbbkY2.jpg)
 
 In my last post I introduced my app **Movie Bucket List**.  As a review, It is an app designed to help you keep track of all the movies you want to see. Users create Bucket Lists where they can store their must-see movies. Since that last post, I have added a few things like a jQuery Front End and the ability to create comments for Bucket Lists. 
 
