@@ -6,7 +6,7 @@ permalink:  movie_bucket_list_with_jquery_front_end
 ---
 
 
-![](https://imgur.com/FWbbkY2.jpg)
+![](https://i.imgur.com/FWbbkY2.png) 
 
 In my last post I introduced my app **Movie Bucket List**.  As a review, It is an app designed to help you keep track of all the movies you want to see. Users create Bucket Lists where they can store their must-see movies. Since that last post, I have added a few things like a jQuery Front End and the ability to create comments for Bucket Lists. 
 
