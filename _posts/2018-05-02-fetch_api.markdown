@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " Fetch API"
-date:       2018-05-02 14:55:37 +0000
+date:       2018-05-02 10:55:38 -0400
 permalink:  fetch_api
 ---
 
@@ -19,7 +19,6 @@ After the then() function on line 2 fires, then line 3's will fire. Line 3's the
 As you can see we need 2 then() functions after a Fetch API request. The first one handles the response object of the promise and makes the information in the response available. The second one says what to do with the response information. 
 
 If you would like to read more about Fetch API requests, I recommend taking a look at the resources below.
-
 
 
 
