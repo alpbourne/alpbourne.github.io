@@ -24,4 +24,5 @@ If you would like to read more about Fetch API requests, I recommend taking a lo
 
 (1)https://github.com/learn-co-students/redux-thunk-readme-v-000
 (2)https://flaviocopes.com/fetch-api/
+
 (3)https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
