@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Sass (Syntactically Awesome StyleSheets)"
-date:       2018-06-14 01:27:40 +0000
+date:       2018-06-13 21:27:41 -0400
 permalink:  sass_syntactically_awesome_stylesheets
 ---
 
-![](https://i.imgur.com/FWbbkY2.png)
+![](https://i.imgur.com/Bkwl5AK.png)
 
 During my time at the Flatiron School, I learned how to customize the front-end of websites using CSS. Recently, a company I was interviewing with used Sass so I started learning it to prepare. I have become a fan of Sass since then! "Sass is an extension of CSS that adds power and elegance to the basic language."(5)
 
